@@ -1,0 +1,15 @@
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\MainWindow.g.cs
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\App.g.cs
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp_MarkupCompile.cache
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp_MarkupCompile.lref
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\bin\Debug\PrinterApp.exe.config
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\bin\Debug\PrinterApp.exe
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\bin\Debug\PrinterApp.pdb
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\MainWindow.baml
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.g.resources
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.Properties.Resources.resources
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.csproj.CoreCompileInputs.cache
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.exe
+C:\Users\Artur\source\repos\PrinterApp\PrinterApp\obj\Debug\PrinterApp.pdb
